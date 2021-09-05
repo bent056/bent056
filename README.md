@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bent056
+- 👋 Hi, I’m **@bent056** or just **daniel**
 - 👀 I’m interested in **destiny 2, botting, watching youtube videos about math i will never understand**
 - 🌱 I’m currently learning **java**
 - 💞️ I’m looking to collaborate on ...
