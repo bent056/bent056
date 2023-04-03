@@ -4,7 +4,7 @@ Currently learning basic C#, but would like to become proficient in Java, JS, an
 
 Interested in making mobile/web apps when possible, or playing Destiny 2. 
 
-**[twitter](https://twitter.com/kirixha)**, **kirixha#7759** on discord
+**kirixha#7759** on discord
 
 <!---
 bent056/bent056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
