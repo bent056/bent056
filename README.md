@@ -1,8 +1,9 @@
-- 👋 Hi, I’m **@bent056** or just **daniel**
-- 👀 I’m interested in **destiny 2, ffxiv, genshin, watching youtube videos about math i will never understand**
-- 🌱 I’m currently learning **java**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - **[twitter](https://twitter.com/kirixha)**, **kirixha#7759** on discord
+I'm Daniel, a second year computer science student at Kennesaw State University.
+
+Currently learning basic C#, but would like to become proficient in Java, JS, and Python as well.
+Interested in making mobile/web apps when possible, or playing Destiny 2. 
+
+**[twitter](https://twitter.com/kirixha)**, **kirixha#7759** on discord
 
 <!---
 bent056/bent056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
