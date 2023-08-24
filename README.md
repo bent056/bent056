@@ -1,4 +1,4 @@
-I'm Daniel, a second year computer science student at Kennesaw State University.
+I'm Daniel, a third year computer science student at Kennesaw State University.
 
 Currently learning basic C#, but would like to become proficient in Java, JS, and Python as well.
 
